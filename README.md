@@ -6,7 +6,7 @@ PURPOSE:
     - Adjust list to include military specific words and phrases and have them weighted so that some are worth more than others
   - Train program to understand context with Sentiment Analysis
   - If list cannot be adjusted create dictionary with own word weighting
-    - 
+  
 POSSIBLY USEFUL LINKS:
 Research into using fine-grained sentiment analysis to grade apps.
 https://www.researchgate.net/publication/282272480_How_Do_Users_Like_This_Feature_A_Fine_Grained_Sentiment_Analysis_of_App_Reviews
