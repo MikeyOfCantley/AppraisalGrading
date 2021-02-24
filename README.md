@@ -1,6 +1,8 @@
 # AppraisalGrading
 Use of Sentiment Analysis for Appraisal Grading
+
 PURPOSE:
+
 -Use Sentiment Analysis for Appraisal Grading
   - Get positive and negative words from SentiWordNet
     - Adjust list to include military specific words and phrases and have them weighted so that some are worth more than others
