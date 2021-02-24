@@ -34,3 +34,4 @@ https://stackoverflow.com/questions/14196013/python-creating-dictionary-from-exc
 CHANGELOG:
 
 23/02/2021 - Creation
+24/02/2021 - Created prototype of program including prototype dictionary and report
