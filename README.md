@@ -12,6 +12,10 @@ PURPOSE:
   - Train program to understand context with Sentiment Analysis
   
   - If list cannot be adjusted create dictionary with own word weighting
+
+  - Get reports automatically sent into the program to be analysed.
+
+  - Have reports automatically ranked into a data table with their scores
   
 POSSIBLY USEFUL LINKS:
 
