@@ -7,3 +7,4 @@ json_data=open('dictionary.json')
 jdata = json.load(json_data)
 
 report = open("report.txt").read()
+print = report
