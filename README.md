@@ -6,6 +6,8 @@ PURPOSE:
 - Create program to rank reports to reduce man hour requirements
 
 - reports will be checked against a dictionary of words which will have weights to them to raise score
+
+To Do:
   
 - Create dictionary with own word weighting
 
