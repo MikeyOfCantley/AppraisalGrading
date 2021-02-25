@@ -3,40 +3,21 @@ Use of Sentiment Analysis for Appraisal Grading
 
 PURPOSE:
 
--Use Sentiment Analysis for Appraisal Grading
+- Create program to rank reports to reduce man hour requirements
+
+- reports will be checked against a dictionary of words which will have weights to them to raise score
   
-  - Get positive and negative words from SentiWordNet
+- Create dictionary with own word weighting
+
+- Get reports automatically sent into the program to be analysed.
+
+- Have reports automatically ranked into a data table with their scores
   
-    - Adjust list to include military specific words and phrases and have them weighted so that some are worth more than others
-  
-  - Train program to understand context with Sentiment Analysis
-  
-  - If list cannot be adjusted create dictionary with own word weighting
-
-  - Get reports automatically sent into the program to be analysed.
-
-  - Have reports automatically ranked into a data table with their scores
-  
-POSSIBLY USEFUL LINKS:
-
-Research into using fine-grained sentiment analysis to grade apps.
-
-https://www.researchgate.net/publication/282272480_How_Do_Users_Like_This_Feature_A_Fine_Grained_Sentiment_Analysis_of_App_Reviews
-
-Research into using fine-grained sentiment analysis to review news articles.
-
-https://www.researchgate.net/publication/342733880_News_Sentiment_Analysis
-
-WordNet and SentiWordNet guide.
-
-http://compprag.christopherpotts.net/wordnet.html
-
-How to convert Excel document to dictionary
-
-https://stackoverflow.com/questions/14196013/python-creating-dictionary-from-excel-data
 
 CHANGELOG:
 
 23/02/2021 - Creation
 
 24/02/2021 - Created prototype of program including prototype dictionary and report
+
+25/02/2021 - Program now includes adding new words to the dictionary and checking if words are in the dictionary
